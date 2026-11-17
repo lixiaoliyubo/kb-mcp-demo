@@ -1,0 +1,17 @@
+# 构建产物
+bin/
+obj/
+*.user
+
+# 日志与本地缓存
+kb-demo/.kb/
+kb-demo/.obsidian/
+
+# 编辑器
+.vs/
+.idea/
+.vscode/
+
+# 系统
+Thumbs.db
+.DS_Store
